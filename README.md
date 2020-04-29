@@ -6,7 +6,7 @@
 It is a simple stopwatch project. A counter is displayed to the user. The counter is started by the user's instruction. The started counter can be stopped or reset. The stopped counter can be restarted from where it left off.
 
 `
-Project creation date: March July 2019
+Project creation date: July 2019
 `
 
 ## Screenshots
