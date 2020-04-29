@@ -1,0 +1,3 @@
+**Dil :** [English]() / Turkish
+
+# Kronometre
